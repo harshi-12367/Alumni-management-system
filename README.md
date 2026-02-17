@@ -22,6 +22,8 @@ Bootstrap(Framework)
 
 Links to website -
 
+Document : https://github.com/harshi-12367/Alumni-management-system/blob/main/Document
+
 Main WebPage - https://harshi-12367.github.io/Alumni-management-system/ResponsiveLayout.html
 
 LogIn Form/SignUp Form - https://harshi-12367.github.io/Alumni-management-system/LoginForm.html
