@@ -22,12 +22,12 @@ Bootstrap(Framework)
 
 Links to website -
 
-LogIn Form/SignUp Form - https://gaganpreetkaurkalsi.github.io/AlumniManagementSystem-Project/LoginForm
+Main WebPage - https://harshi-12367.github.io/Alumni-management-system/ResponsiveLayout.html
+
+LogIn Form/SignUp Form - https://harshi-12367.github.io/Alumni-management-system/LoginForm.html
 
 StudentProfile - https://gaganpreetkaurkalsi.github.io/AlumniManagementSystem-Project/StudentProfile
 
-AlumniProfile - https://gaganpreetkaurkalsi.github.io/AlumniManagementSystem-Project/Details
+Recruiters - https://harshi-12367.github.io/Alumni-management-system/Recruiters.html
 
-Main WebPage - https://gaganpreetkaurkalsi.github.io/AlumniManagementSystem-Project/ResponsiveLayout
-
-Dashboard - https://gaganpreetkaurkalsi.github.io/AlumniManagementSystem-Project/Dashboard.html
+Dashboard - https://harshi-12367.github.io/Alumni-management-system/
