@@ -13,11 +13,15 @@ The website is a fully responsive site (Can be opened in Laptop/PC, Tablet, Andr
 Languages and Frameworks used :
 
 HTML
+
 CSS
+
 Javascript
+
 Bootstrap(Framework)
 
 Links to website -
+
 LogIn Form/SignUp Form - https://gaganpreetkaurkalsi.github.io/AlumniManagementSystem-Project/LoginForm
 
 StudentProfile - https://gaganpreetkaurkalsi.github.io/AlumniManagementSystem-Project/StudentProfile
